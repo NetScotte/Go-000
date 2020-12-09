@@ -24,5 +24,7 @@
 
  如果对 Git 和 GitHub 不太了解，请参考 [Git 官方文档](https://git-scm.com/book/zh/v2) 或者极客时间的[《玩转 Git 三剑客》](https://time.geekbang.org/course/intro/145)视频课程。
 
-## 测试
-修改README.md，尝试触发MR
+## 格式
+\#学号: G20200607011155
+\#班级: 7班
+\#作业链接: 
